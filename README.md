@@ -11,7 +11,11 @@ Retrouvé les dernières nouveauté lié au développement web
 
 Les articles hebdomadaire reprendront les gros point des nouveauté de la semaine, tout les dimanche
 
-##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a>
+##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> 
+![Maintenance](https://img.shields.io/badge/Maintainu-yes-green.svg)
+![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
+![Version](https://img.shields.io/badge/Version-Alpha%201.0.0-blue.svg)
+
   
 ---  
   
@@ -20,7 +24,10 @@ Les articles hebdomadaire reprendront les gros point des nouveauté de la semain
 
 Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
  
-##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> pour le Back-End et <a href="https://github.com/Alex-Pqn">Alex-Pqn</a> pour le Front-End chef du projet
+##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> pour le Back-End et <a href="https://github.com/Alex-Pqn">Alex-Pqn</a> pour le Front-End et chef du projet
+![Maintenance](https://img.shields.io/badge/Maintainu-yes-green.svg)
+![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
+![Version](https://img.shields.io/badge/Version-Alpha%201.0.0-blue.svg)
 
 ---  
   
@@ -30,9 +37,13 @@ Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
 Site dédié à l'administration d'un serveur Minecraft PvpFaction
  
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a>
+![Maintenance](https://img.shields.io/badge/Maintainu-yes-green.svg)
+![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.2.0-blue.svg)
 
 ---
 
-![Silverfabien github stats](https://github-readme-stats.vercel.app/api?username=Silverfabien&hide=["issues"])
+![Silverfabien github stats](https://github-readme-stats.vercel.app/api?username=Silverfabien&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=SilverFabien.visitor-badge"/> -->
