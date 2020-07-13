@@ -6,7 +6,7 @@ Je m'appelle Hollebeque Fabien et je suis développeur Back-End sous le framewor
 
 J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez <a href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">OpenClassroom</a> ou j'ai dû réaliser des site sous plusieurs langage (HTML, CSS, PHP, Symfony, Twig) et appris à utiliser (WordPress, PostMan, Diagrammes UML).
 
-<h2>Voici mes projets réalisé</h2>
+<h2>Voici mes projets personnels</h2>
 
 <h4>Blog</h4>
 <p>Site web non disponible. 🛠 En cours développement 🛠</p>
