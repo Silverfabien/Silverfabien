@@ -17,8 +17,8 @@ Les articles hebdomadaires reprendront les gros points sur les nouveautés de la
 
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> 
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
-![Version](https://img.shields.io/badge/Version-En%20Développement-blue.svg)
-
+![Version](https://img.shields.io/badge/Version-En%20Développement-yellow.svg)
+![Version](https://img.shields.io/badge/Repository-Private-red.svg)
   
 ---  
   
@@ -29,7 +29,8 @@ Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
  
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> pour le Back-End et <a href="https://github.com/Alex-Pqn">Alex-Pqn</a> pour le Front-End et chef du projet
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
-![Version](https://img.shields.io/badge/Version-En%20Développement-blue.svg)
+![Version](https://img.shields.io/badge/Version-En%20Développement-yellow.svg)
+![Version](https://img.shields.io/badge/Repository-Private-red.svg)
 
 ---  
   
@@ -40,7 +41,8 @@ Site dédié à l'administration d'un serveur Minecraft PvpFaction
  
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a>
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.2.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.2.0-green.svg)
+![Version](https://img.shields.io/badge/Repository-Private-red.svg)
 
 ---
 
