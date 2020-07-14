@@ -16,9 +16,8 @@ Retrouvé les dernières nouveautés liées au développement web !
 Les articles hebdomadaires reprendront les gros points sur les nouveautés de la semaine, les articles seront posté tous les dimanches
 
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> 
-![Maintenance](https://img.shields.io/badge/Maintainu-yes-green.svg)
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
-![Version](https://img.shields.io/badge/Version-Alpha%201.0.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-En%20Développement-blue.svg)
 
   
 ---  
@@ -29,9 +28,8 @@ Les articles hebdomadaires reprendront les gros points sur les nouveautés de la
 Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
  
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> pour le Back-End et <a href="https://github.com/Alex-Pqn">Alex-Pqn</a> pour le Front-End et chef du projet
-![Maintenance](https://img.shields.io/badge/Maintainu-yes-green.svg)
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
-![Version](https://img.shields.io/badge/Version-Alpha%201.0.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-En%20Développement-blue.svg)
 
 ---  
   
@@ -41,7 +39,6 @@ Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
 Site dédié à l'administration d'un serveur Minecraft PvpFaction
  
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a>
-![Maintenance](https://img.shields.io/badge/Maintainu-yes-green.svg)
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.2.0-blue.svg)
 
