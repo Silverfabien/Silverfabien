@@ -23,7 +23,7 @@ Les articles hebdomadaires reprendront les gros points sur les nouveautés de la
 ---  
   
 <h4>Eden-Island</h4>
-<p><a href="http://www.eden-island.silversat.ovh/">http://www.eden-island.silversat.ovh/</a>. 🛠 En cours développement 🛠</p>
+<p><a href="https://www.eden-island.silversat.ovh/">https://www.eden-island.silversat.ovh/</a>. 🛠 En cours développement 🛠</p>
 
 Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
  
