@@ -49,4 +49,4 @@ Site dédié à l'administration d'un serveur Minecraft PvpFaction
 ![Silverfabien github stats](https://github-readme-stats.vercel.app/api?username=Silverfabien&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=SilverFabien.visitor-badge"/>
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Silverfabien.visitor-badge"/> -->
