@@ -9,7 +9,7 @@ J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez 
 <h2>Voici mes projets personnels</h2>
 
 <h4>Blog</h4>
-<p>Site web non disponible. 🛠 En cours développement 🛠</p>
+<p><a href="https://blog.silversat.ovh/">https://blog.silversat.ovh/</a>. 🛠 En cours développement 🛠</p>
 
 Retrouvé les dernières nouveautés liées au développement web !
 
@@ -49,4 +49,4 @@ Site dédié à l'administration d'un serveur Minecraft PvpFaction
 ![Silverfabien github stats](https://github-readme-stats.vercel.app/api?username=Silverfabien&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=SilverFabien.visitor-badge"/> -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=SilverFabien.visitor-badge"/>
