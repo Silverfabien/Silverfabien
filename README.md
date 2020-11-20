@@ -29,7 +29,7 @@ Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
  
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> pour le Back-End et <a href="https://github.com/Alex-Pqn">Alex-Pqn</a> pour le Front-End et chef du projet
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
-![Version](https://img.shields.io/badge/Version-En%20Développement-yellow.svg)
+![Version](https://img.shields.io/badge/Version-En%20pause-orange.svg)
 ![Version](https://img.shields.io/badge/Repository-Private-red.svg)
 
 ---  
