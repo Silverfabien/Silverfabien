@@ -4,14 +4,14 @@
 
 Je m'appelle Hollebeque Fabien et je suis développeur Back-End sous le framework Symfony et des connaissances suffisantes en Front-End pour développer des sites assez simpliste de ce côté. 
 
-J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez <a href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">OpenClassroom</a> ou j'ai dû réaliser des site sous plusieurs langage (HTML, CSS, PHP, Symfony, Twig) et appris à utiliser (WordPress, PostMan, Diagrammes UML).
+J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez <a href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">OpenClassroom</a> ou j'ai dû réaliser des sites sous plusieurs langage (HTML, CSS, PHP, Symfony, Twig) et appris à utiliser (WordPress, PostMan, Diagrammes UML).
 
 <h2>Voici mes projets personnels</h2>
 
 <h4>Blog</h4>
 <p><a href="https://blog.silversat.ovh/">https://blog.silversat.ovh/</a>. 🛠 En cours développement 🛠</p>
 
-Retrouvé les dernières nouveautés liées au développement web !
+Retrouver les dernières nouveautées liées au développement web !
 
 Les articles hebdomadaires reprendront les gros points sur les nouveautés de la semaine, les articles seront posté tous les dimanches
 
@@ -23,7 +23,7 @@ Les articles hebdomadaires reprendront les gros points sur les nouveautés de la
 ---  
   
 <h4>Eden-Island</h4>
-<p><a href="https://www.eden-island.silversat.ovh/">https://www.eden-island.silversat.ovh/</a>. 🛠 En cours développement 🛠</p>
+<p><a href="https://www.eden-island.silversat.ovh/">https://www.eden-island.silversat.ovh/</a>. Projet abandonné</p>
 
 Site dédié à la communauté Arma 3 pour le serveur RP Eden-Island
  
