@@ -2,7 +2,7 @@
 
 ### Bienvenue sur mon profil 
 
-Je m'appelle Hollebeque Fabien et je suis développeur Back-End sous le framework Symfony et des connaissances suffisantes en Front-End pour développer des sites assez simpliste de ce côté. 
+Je m'appelle Hollebeque Fabien et je suis développeur Back-End sous le framework Symfony 4 j'ai aussi des connaissances suffisantes en HTML/CSS ainsi que JavaScript pour développer des sites assez simpliste au niveau du front-end. 
 
 J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez <a href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">OpenClassroom</a> ou j'ai dû réaliser des sites sous plusieurs langage (HTML, CSS, PHP, Symfony, Twig) et appris à utiliser (WordPress, PostMan, Diagrammes UML).
 
@@ -13,7 +13,7 @@ J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez 
 
 Retrouver les dernières nouveautées liées au développement web !
 
-Les articles hebdomadaires reprendront les gros points sur les nouveautés de la semaine, les articles seront posté tous les dimanches
+Les articles mensuel reprendront les gros points sur les nouveautés du mois.
 
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> 
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
