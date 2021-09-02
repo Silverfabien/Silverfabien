@@ -4,16 +4,16 @@
 
 Je m'appelle Hollebeque Fabien et je suis développeur Back-End sous le framework Symfony 4 j'ai aussi des connaissances suffisantes en HTML/CSS ainsi que JavaScript pour développer des sites assez simpliste au niveau du front-end. 
 
-J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez <a href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">OpenClassroom</a> ou j'ai dû réaliser des sites sous plusieurs langage (HTML, CSS, PHP, Symfony, Twig) et appris à utiliser (WordPress, PostMan, Diagrammes UML).
+J'ai suivi un parcours diplômant "Développeur d'application PHP/Symfony" chez <a href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">OpenClassroom</a> ou j'ai dû réaliser des sites sous plusieurs langages (HTML, CSS, PHP, Symfony, Twig) et appris à utiliser (WordPress, PostMan, Diagrammes UML).
 
 <h2>Voici mes projets personnels</h2>
 
 <h4>Blog</h4>
 <p><a href="https://blog.silversat.ovh/">https://blog.silversat.ovh/</a>. 🛠 En cours développement 🛠</p>
 
-Retrouver les dernières nouveautées liées au développement web !
+Retrouver les dernières nouveautés liées au développement web !
 
-Les articles mensuel reprendront les gros points sur les nouveautés du mois.
+Les articles mensuels reprendront les gros points sur les nouveautés du mois.
 
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a> 
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%204-blue.svg)
