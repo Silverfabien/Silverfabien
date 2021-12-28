@@ -41,7 +41,7 @@ Site dédié à l'administration d'un serveur Minecraft PvpFaction
  
 ##### Réalisé par <a href="https://github.com/Silverfabien">Silverfabien</a>
 ![Symfony](https://img.shields.io/badge/Développer%20avec-Symfony%205-blue.svg)
-![Version](https://img.shields.io/badge/En%20développement-orange.svg)
+![Version](https://img.shields.io/badge/Version-1.0-green.svg)
 ![Version](https://img.shields.io/badge/Repository-Public-green.svg)
 
 ---
